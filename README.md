@@ -1,4 +1,4 @@
-# Data Visulisation using Tableau for Airline Data Analysis
+# Data Visualization using Tableau for Airline Data Analysis
 
 Explore the interactive dashboard here on Tableau public: https://public.tableau.com/app/profile/tanay.k5446/viz/AirlineReviewDashboard_17119771267610/Dashboard1#1
 
